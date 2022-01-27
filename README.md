@@ -5,9 +5,9 @@
 
 - 📝 I regularly write articles on [https://twoimo.vercel.app/](https://twoimo.vercel.app/)
 
-- 📫 How to reach me **kss2740@naver.com**
-
 - 📄 Know about my experiences [https://twoimo.vercel.app/about](https://twoimo.vercel.app/about)
+
+- 📫 How to reach me **kss2740@naver.com**
 
 <h3 align="left">Activity Experience</h3>
 
