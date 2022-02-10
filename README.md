@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Computer Security & Distributed Computing Laboratory: CSDC Lab.**
 
-- 📝 I regularly write articles on [https://www.twoimo.run/](https://www.twoimo.run/)
+- 📝 I regularly write articles on [https://twoimo.run/](https://twoimo.run/)
 
-- 📄 Know about my experiences [https://www.twoimo.run/about](https://www.twoimo.run/about)
+- 📄 Know about my experiences [https://twoimo.run/about](https://twoimo.run/about)
 
 - 📫 How to reach me **kss2740@naver.com**
 
