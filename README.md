@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Computer Security & Distributed Computing Laboratory: CSDC Lab.**
 
-- 📝 I regularly write articles on [https://twoimo.vercel.app/](https://twoimo.vercel.app/)
+- 📝 I regularly write articles on [https://www.twoimo.run/](https://www.twoimo.run/)
 
-- 📄 Know about my experiences [https://twoimo.vercel.app/about](https://twoimo.vercel.app/about)
+- 📄 Know about my experiences [https://www.twoimo.run/about](https://www.twoimo.run/about)
 
 - 📫 How to reach me **kss2740@naver.com**
 
